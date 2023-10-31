@@ -1,0 +1,11 @@
+# python
+*.pyc
+
+# mac
+.DS_Store
+
+# diora
+cache
+/data
+diora-checkpoints
+log
