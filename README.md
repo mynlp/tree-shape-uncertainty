@@ -75,4 +75,4 @@ This repository includes the modified codes:
 
 # License
 
-MIT
+This code is distributed under the MIT License.
